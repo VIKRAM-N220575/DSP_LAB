@@ -1,0 +1,185 @@
+08/09/2024, 7:30 am - Vikram: Good morning
+08/09/2024, 7:31 am - Rahul: Morning
+08/09/2024, 7:32 am - Vikram: Did you finish yesterday’s work?
+08/09/2024, 7:33 am - Rahul: Not fully, had to stop midway
+08/09/2024, 7:34 am - Vikram: Same, I was too tired
+08/09/2024, 7:35 am - Rahul: Today we should complete it
+
+08/09/2024, 9:45 am - Vikram: In class right now
+08/09/2024, 9:46 am - Rahul: Same, DSP lecture
+08/09/2024, 9:47 am - Vikram: Too many equations 😵
+08/09/2024, 9:48 am - Rahul: I stopped trying to understand halfway
+08/09/2024, 9:49 am - Vikram: We’ll revise later
+
+08/09/2024, 1:10 pm - Vikram: Lunch time
+08/09/2024, 1:11 pm - Rahul: Finally
+08/09/2024, 1:12 pm - Vikram: What are you eating?
+08/09/2024, 1:13 pm - Rahul: Rice and curry
+08/09/2024, 1:14 pm - Vikram: Same here
+
+08/09/2024, 4:50 pm - Rahul: Heading home
+08/09/2024, 4:51 pm - Vikram: Traffic?
+08/09/2024, 4:52 pm - Rahul: As usual
+08/09/2024, 4:53 pm - Vikram: Take care
+
+08/09/2024, 7:00 pm - Vikram: Free now?
+08/09/2024, 7:01 pm - Rahul: Yes
+08/09/2024, 7:02 pm - Vikram: Let’s start studying
+08/09/2024, 7:03 pm - Rahul: Okay, opening the notes
+08/09/2024, 7:05 pm - Vikram: Start with unit 2
+08/09/2024, 7:06 pm - Rahul: Alright
+
+08/09/2024, 9:15 pm - Rahul: Feeling sleepy
+08/09/2024, 9:16 pm - Vikram: Same
+08/09/2024, 9:17 pm - Rahul: Let’s stop here
+08/09/2024, 9:18 pm - Vikram: Yes, continue tomorrow
+
+09/09/2024, 8:00 am - Rahul: Morning
+09/09/2024, 8:01 am - Vikram: Morning, slept well?
+09/09/2024, 8:02 am - Rahul: A bit better
+09/09/2024, 8:03 am - Vikram: Good
+
+09/09/2024, 11:30 am - Vikram: Any update on assignment?
+09/09/2024, 11:31 am - Rahul: Started it
+09/09/2024, 11:32 am - Vikram: Same here
+09/09/2024, 11:33 am - Rahul: We should finish it today
+
+09/09/2024, 2:00 pm - Vikram: Assignment is harder than expected
+09/09/2024, 2:01 pm - Rahul: Yes, especially last problem
+09/09/2024, 2:02 pm - Vikram: Let’s solve it together
+09/09/2024, 2:03 pm - Rahul: Good idea
+
+09/09/2024, 6:40 pm - Vikram: Finally done
+09/09/2024, 6:41 pm - Rahul: Same here
+09/09/2024, 6:42 pm - Vikram: Feels good
+09/09/2024, 6:43 pm - Rahul: Very relieved
+
+09/09/2024, 10:00 pm - Vikram: Going to sleep
+09/09/2024, 10:01 pm - Rahul: Sleep well
+09/09/2024, 10:02 pm - Vikram: Good night
+09/09/2024, 10:03 pm - Rahul: Good night
+
+10/09/2024, 7:20 am - Vikram: Morning
+10/09/2024, 7:21 am - Rahul: Morning
+10/09/2024, 7:22 am - Vikram: Ready for today?
+10/09/2024, 7:23 am - Rahul: As ready as possible 😄
+10/09/2024, 7:24 am - Vikram: Same
+
+10/09/2024, 12:15 pm - Vikram: How’s the day going?
+10/09/2024, 12:16 pm - Rahul: Busy
+10/09/2024, 12:17 pm - Vikram: Same here
+
+10/09/2024, 5:10 pm - Rahul: Heading back home
+10/09/2024, 5:11 pm - Vikram: Drive safe
+10/09/2024, 5:12 pm - Rahul: Will do
+
+10/09/2024, 9:30 pm - Vikram: Did you revise today?
+10/09/2024, 9:31 pm - Rahul: A little
+10/09/2024, 9:32 pm - Vikram: Better than nothing
+10/09/2024, 9:33 pm - Rahul: True
+
+10/09/2024, 11:00 pm - Vikram: Sleep time
+10/09/2024, 11:01 pm - Rahul: Good night
+10/09/2024, 11:02 pm - Vikram: Good night
+
+10/09/2024, 8:05 am - Vikram: Good morning
+10/09/2024, 8:06 am - Rahul: Morning
+10/09/2024, 8:07 am - Vikram: Did you wake up early today?
+10/09/2024, 8:08 am - Rahul: Yeah, had an early class
+10/09/2024, 8:09 am - Vikram: Same here, feeling sleepy already
+10/09/2024, 8:10 am - Rahul: Coffee helps 😄
+10/09/2024, 8:12 am - Vikram: True, can’t survive without it
+10/09/2024, 8:14 am - Rahul: Are you coming to college now?
+10/09/2024, 8:15 am - Vikram: Yes, leaving in 10 minutes
+10/09/2024, 8:16 am - Rahul: Okay, see you in class
+
+10/09/2024, 1:05 pm - Vikram: Lunch break finally
+10/09/2024, 1:06 pm - Rahul: Yeah, today felt very long
+10/09/2024, 1:07 pm - Vikram: Did you understand the DSP lecture?
+10/09/2024, 1:08 pm - Rahul: Not much, too many formulas
+10/09/2024, 1:09 pm - Vikram: Same, I need to revise it again
+10/09/2024, 1:10 pm - Rahul: Let’s study together in the evening
+10/09/2024, 1:11 pm - Vikram: Sure, that will help
+
+10/09/2024, 5:30 pm - Vikram: I’m back home
+10/09/2024, 5:31 pm - Rahul: Same, traffic was horrible
+10/09/2024, 5:32 pm - Vikram: Seriously, it took forever
+10/09/2024, 5:33 pm - Rahul: Are you free now?
+10/09/2024, 5:34 pm - Vikram: Give me 30 minutes
+10/09/2024, 5:35 pm - Rahul: Okay, ping me when ready
+
+10/09/2024, 7:10 pm - Vikram: Ready now
+10/09/2024, 7:11 pm - Rahul: Great, let’s start with DSP
+10/09/2024, 7:12 pm - Vikram: Okay, starting with signals and systems
+10/09/2024, 7:14 pm - Rahul: I’m opening the notes
+10/09/2024, 7:15 pm - Vikram: Do you have the previous year questions?
+10/09/2024, 7:16 pm - Rahul: Yes, I’ll send them
+10/09/2024, 7:17 pm - Vikram: Thanks, that helps a lot
+
+10/09/2024, 8:30 pm - Rahul: Feeling tired now
+10/09/2024, 8:31 pm - Vikram: Same, let’s take a small break
+10/09/2024, 8:32 pm - Rahul: Good idea
+10/09/2024, 8:35 pm - Vikram: Did you have dinner?
+10/09/2024, 8:36 pm - Rahul: Not yet, I will eat after this
+10/09/2024, 8:37 pm - Vikram: Same here
+
+10/09/2024, 10:00 pm - Vikram: I think that’s enough for today
+10/09/2024, 10:01 pm - Rahul: Yeah, my head is full
+10/09/2024, 10:02 pm - Vikram: We’ll continue tomorrow
+10/09/2024, 10:03 pm - Rahul: Sure, same time?
+10/09/2024, 10:04 pm - Vikram: Yes, works for me
+
+11/09/2024, 9:00 am - Rahul: Good morning
+11/09/2024, 9:01 am - Vikram: Morning, slept well?
+11/09/2024, 9:02 am - Rahul: Not really, slept late
+11/09/2024, 9:03 am - Vikram: Same problem here
+11/09/2024, 9:05 am - Rahul: We should fix our sleep schedule
+11/09/2024, 9:06 am - Vikram: Definitely
+
+11/09/2024, 12:45 pm - Vikram: Any updates on the assignment?
+11/09/2024, 12:46 pm - Rahul: Almost done
+11/09/2024, 12:47 pm - Vikram: Nice, I’m halfway through
+11/09/2024, 12:48 pm - Rahul: Finish it today, no more delay
+11/09/2024, 12:49 pm - Vikram: Yeah, lesson learned 😅
+
+11/09/2024, 6:20 pm - Vikram: Submitted the assignment
+11/09/2024, 6:21 pm - Rahul: Great job
+11/09/2024, 6:22 pm - Vikram: Feeling relieved
+11/09/2024, 6:23 pm - Rahul: Same here
+
+11/09/2024, 10:15 pm - Vikram: Heading to sleep now
+11/09/2024, 10:16 pm - Rahul: Good, sleep early
+11/09/2024, 10:17 pm - Vikram: Good night
+11/09/2024, 10:18 pm - Rahul: Good night, take care
+
+12/09/2024, 9:15 pm - Vikram: Hey
+12/09/2024, 9:16 pm - Rahul: Hey, what's up?
+12/09/2024, 9:17 pm - Vikram: Nothing much, just got back from college
+12/09/2024, 9:18 pm - Rahul: Oh nice, how was today?
+12/09/2024, 9:19 pm - Vikram: It was fine, classes were a bit boring
+12/09/2024, 9:20 pm - Rahul: Yeah, same here
+12/09/2024, 9:22 pm - Vikram: Did you finish the DSP assignment?
+12/09/2024, 9:23 pm - Rahul: Not yet, I’ll probably do it tonight
+12/09/2024, 9:24 pm - Vikram: Same, I’ve been delaying it a lot
+12/09/2024, 9:25 pm - Rahul: You should start early, exam is coming soon
+12/09/2024, 9:27 pm - Vikram: True 😅
+12/09/2024, 9:28 pm - Rahul: Are you free tomorrow?
+12/09/2024, 9:29 pm - Vikram: Yeah, after 4 pm
+12/09/2024, 9:30 pm - Rahul: Cool, let’s study together then
+12/09/2024, 9:31 pm - Vikram: Sounds good
+12/09/2024, 9:33 pm - Vikram: Do you have the notes for unit 1?
+12/09/2024, 9:34 pm - Rahul: Yes, I’ll send you the PDF
+12/09/2024, 9:35 pm - Vikram: That would be really helpful, thanks
+12/09/2024, 9:36 pm - Rahul: No problem 🙂
+12/09/2024, 9:38 pm - Rahul: What are you doing now?
+12/09/2024, 9:39 pm - Vikram: Just scrolling through my phone
+12/09/2024, 9:40 pm - Rahul: Same here, feeling bored
+12/09/2024, 9:42 pm - Vikram: Take a break, you look tired these days
+12/09/2024, 9:43 pm - Rahul: Yeah, sleep schedule is messed up
+12/09/2024, 9:44 pm - Vikram: Try sleeping early today
+12/09/2024, 9:45 pm - Rahul: I’ll try 🤞
+12/09/2024, 9:47 pm - Vikram: Okay, talk later
+12/09/2024, 9:48 pm - Rahul: Sure, see you
+12/09/2024, 9:49 pm - Vikram: Bye
+12/09/2024, 9:50 pm - Rahul: Bye, good night
+12/09/2024, 9:51 pm - Vikram: Good night, take care
